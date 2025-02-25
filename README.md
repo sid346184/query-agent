@@ -1,6 +1,6 @@
 # Query Agent
 
-Query Agent is a web application that provides financial data for companies using a combination of yfinance, Flask, and a React frontend. This project is designed to fetch and display financial data for specified companies and answer user queries using the Groq API.
+Query Agent is a web application that provides financial data for companies using a combination of yfinance, Flask, and a React frontend. This project is designed to fetch and display financial data for specified companies and answer user queries using the Groq API.(You should change the api key before running the app)
 
 ## Features
 
